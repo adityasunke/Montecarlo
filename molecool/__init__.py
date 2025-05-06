@@ -7,4 +7,4 @@
 # from .metropolis import *
 
 from molecool import *
-from ._version import *
+from ._version import __version__
