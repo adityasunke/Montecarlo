@@ -1,4 +1,10 @@
-from montecarlo import montecarlo
-from .bitstring import BitString
-from .ising import IsingHamiltonian
-from .metropolis import MonteCarlo
+"""The montecarlo package for PHYS3684"""
+
+# Add imports here
+#from montecarlo import montecarlo
+#from .bitstring import *
+#from .isinghamiltonian import *
+#from .metropolis import *
+
+from .montecarlo import *
+from ._version import __version__
