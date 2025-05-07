@@ -1,6 +1,6 @@
 import pytest
 from molecool.bitstring import BitString
-
+#Small Change
 def test_init():
     bs = BitString(5)
     assert len(bs.config) == 5
