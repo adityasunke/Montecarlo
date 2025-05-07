@@ -47,5 +47,3 @@ def test_compute_average_values():
     assert np.isfinite(M)
     assert np.isfinite(HC)
     assert np.isfinite(MS)
-
-

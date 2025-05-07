@@ -15,4 +15,8 @@ dependencies:
     # Pip-only installs
   #- pip:
   #  - codecov
-
+  - numpy
+  - networkx
+  - matplotlib
+  - pytest
+  - pytest-cov
