@@ -5,7 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/adityasunke/molecool/branch/main/graph/badge.svg)](https://codecov.io/gh/adityasunke/molecool/branch/main)
 
 
-A Python package for analyzing and visualizing xyz files.
+A Python package for analyzing and visualizing PHYS3684 files.
 
 ### Copyright
 
